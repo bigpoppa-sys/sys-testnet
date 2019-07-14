@@ -127,7 +127,7 @@ create_conf(){
 
 start_syscoind(){
   cd
-  syscoind
+  sudo syscoind
 }
 
 pause
