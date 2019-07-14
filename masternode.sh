@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This will install a Syscoin Masternode on Testnet
+# This will install a Syscoin Masternode on Testnet. Install as root
 # to run script simply paste
 # bash <(curl -sL https://raw.githubusercontent.com/bigpoppa-sys/sys-testnet/master/masternode.sh)
 
