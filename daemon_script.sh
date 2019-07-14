@@ -2,7 +2,7 @@
 
 # Will install Syscoin Daemon with Testnet Config
 # to run script simply paste
-# bash <(curl -sL https://raw.githubusercontent.com/bigpoppa-sys/sysmn/master/sys-agent.sh)
+# bash <(curl -sL https://raw.githubusercontent.com/bigpoppa-sys/sys-testnet/master/daemon_script.sh)
 
 # syscoin conf file
 SYSCOIN_CONF=$(cat <<EOF
