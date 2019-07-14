@@ -121,7 +121,7 @@ make_install() {
 create_conf(){
   echo "Creating Conf"
   sudo mkdir ~/.syscoin
-  echo "$SYSCOIN_CONF" > ~/.syscoin/syscoin.conf
+  echo "$SYSCOIN_CONF" | sudo tee -a ~/.syscoin/syscoin.conf
   clear
 }
 
