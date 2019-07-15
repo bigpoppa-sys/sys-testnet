@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # to run script simply paste
-# bash <(curl -sL https://raw.githubusercontent.com/bigpoppa-sys/sysmn/master/test-script.sh)
+# bash <(curl -sL https://raw.githubusercontent.com/bigpoppa-sys/sys-testnet/master/masternode.sh)
 
 # syscoin conf file
 SYSCOIN_CONF=$(cat <<EOF
